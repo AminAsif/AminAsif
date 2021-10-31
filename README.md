@@ -1,4 +1,4 @@
-![Java Programmer.](https://scontent.fdac20-1.fna.fbcdn.net/v/t1.18169-9/16997669_851552834987176_8827303893561276693_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeH12oz4MHUw3ioVIVVQ0m7tcnUtjFwREkNydS2MXBESQ6r2IbClnoQnW6vYf-Qup6Dw43vHPtOHjPzFmImG1uFw&_nc_ohc=GSAVReZjPzwAX8UP4za&_nc_ht=scontent.fdac20-1.fna&oh=56bee5ff424bc5e8d9d4c46086905118&oe=61A3AAF4)
+![Java Programmer.](https://www.careergirls.org/wp-content/uploads/2015/06/Computer_Programmer1920X10180.jpg)
 
 ## Hi there 👋, I'm Asif Amin
 ### Java Programmer.
@@ -31,4 +31,3 @@ Skills: C / Java
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AminAsif)  
 
 ![Profile views](https://gpvc.arturio.dev/AminAsif)  
-
