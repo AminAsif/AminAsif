@@ -13,7 +13,7 @@ Skills: C / Java
 - 🌱 I’m currently learning Java(NetBeans) 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Java 
-
+  Gmail: aminasif83@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AminAsif)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/asif.amin.52493)  
 
